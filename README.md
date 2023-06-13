@@ -1,5 +1,5 @@
 # HarmoniTech: Transforming Acquisitions with Seamless IT Integration
-# Ops 301 Final Project Guidelines
+# Project Guidelines
 
 ## Scenario
 
