@@ -1,5 +1,4 @@
-# HarmoniTech: Transforming Acquisitions with Seamless IT Integration
-# Project Guidelines
+# HarmoniTech: Transforming Acquisitions with Seamless IT Integration Project Guidelines
 
 ## Scenario
 
