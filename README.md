@@ -224,7 +224,11 @@ Your client company has been wanting to move their physical infrastructure to th
   - OU: Departments
   - samAccountName: alexmercer
   - Email: a.mercer@VerveTech.com
-
+---
+- This org chart was compiled from results given by chatgpt:
+- [Base iteration](https://chat.openai.com/share/a396a2a3-ec59-4bda-a94f-bc182ee153c4)
+- [Secondary iteration 1](https://chat.openai.com/share/3c6cd92f-4b3f-476e-980b-2ad631c291b7)
+- [Secondary iteration 2](https://chat.openai.com/share/0595b7a6-f372-43e6-9b39-41cba46128f7)
 
 
 
