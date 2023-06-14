@@ -66,7 +66,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Executive Office
   - OU (Organizational Unit): Leadership
   - samAccountName: mario
-  - Email: mario@company.com
+  - Email: m.mario@HarmoniGlobal.com
 
 
 - CTO: Master Chief (Halo)
@@ -75,7 +75,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Leadership
   - samAccountName: masterchief
-  - Email: masterchief@company.com
+  - Email: m.chief@HarmoniGlobal.com
 
 
 - CIO: Jill Valentine (Resident Evil)
@@ -84,7 +84,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Leadership
   - samAccountName: jillvalentine
-  - Email: jillvalentine@company.com
+  - Email: j.valentine@HarmoniGlobal.com
 
 
 
@@ -94,7 +94,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Operations
   - OU: Leadership
   - samAccountName: laracroft
-  - Email: laracroft@company.com
+  - Email: l.croft@HarmoniGlobal.com
 
 
 - Chief Architect: Samus Aran (Metroid)
@@ -103,7 +103,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Leadership
   - samAccountName: samusaran
-  - Email: samusaran@company.com
+  - Email: s.aran@HarmoniGlobal.com
 
 
 - Director of Software Development: Aloy (Horizon Zero Dawn)
@@ -112,7 +112,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Departments
   - samAccountName: aloy
-  - Email: aloy@company.com
+  - Email: a.loy@HarmoniGlobal.com
 
 
 - Director of Network Operations: Ryu (Street Fighter)
@@ -121,7 +121,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Departments
   - samAccountName: ryu
-  - Email: ryu@company.com
+  - Email: ryu@HarmoniGlobal.com
 
 
 - Director of Data Analytics: Ezio Auditore (Assassin's Creed)
@@ -130,7 +130,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Departments
   - samAccountName: ezioauditore
-  - Email: ezioauditore@company.com
+  - Email: e.auditore@HarmoniGlobal.com
 
 
 - Director of User Experience: Princess Peach (Super Mario Bros.)
@@ -139,7 +139,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Design
   - OU: Departments
   - samAccountName: princesspeach
-  - Email: princesspeach@company.com
+  - Email: p.peach@HarmoniGlobal.com
 
 
 ### Company B (Client Company): VerveTech Solutions
@@ -154,7 +154,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Executive Office
   - OU (Organizational Unit): Leadership
   - samAccountName: nathandrake
-  - Email: nathandrake@company.com
+  - Email: n.drake@VerveTech.com
 
 
 - CTO - Gordon Freeman (Half-Life):
@@ -163,7 +163,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Leadership
   - samAccountName: gordonfreeman
-  - Email: gordonfreeman@company.com
+  - Email: g.freeman@VerveTech.com
 
 
 
@@ -173,7 +173,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Finance
   - OU: Leadership
   - samAccountName: agent47
-  - Email: agent47@company.com
+  - Email: a.47@VerveTech.com
 
 
 
@@ -183,7 +183,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Operations
   - OU: Leadership
   - samAccountName: arthurmorgan
-  - Email: arthurmorgan@company.com
+  - Email: a.morgan@VerveTech.com
 
 
 
@@ -193,7 +193,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Sales
   - OU: Departments
   - samAccountName: nathanhale
-  - Email: nathanhale@company.com
+  - Email: n.hale@VerveTech.com
 
 
 
@@ -203,7 +203,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Marketing
   - OU: Departments
   - samAccountName: faithconnors
-  - Email: faithconnors@company.com
+  - Email: f.connors@VerveTech.com
 
 
 
@@ -213,7 +213,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Human Resources
   - OU: Departments
   - samAccountName: doomguy
-  - Email: doomguy@company.com
+  - Email: d.guy@VerveTech.com
 
 
 
@@ -223,7 +223,7 @@ Your client company has been wanting to move their physical infrastructure to th
   - Department: Information Technology
   - OU: Departments
   - samAccountName: alexmercer
-  - Email: alexmercer@company.com
+  - Email: a.mercer@VerveTech.com
 
 
 
