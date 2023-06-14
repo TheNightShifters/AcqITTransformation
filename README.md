@@ -1,5 +1,12 @@
 # HarmoniTech: Transforming Acquisitions with Seamless IT Integration Project Guidelines
 
+## Members
+Cameron Berry linkedin github
+Sam Allan linkedin github
+Jazmine Garcia linkedin github
+Osaremeh Abel linkedin github
+Lilian Mburu linkedin github
+
 ## Scenario
 
 You team is tasked with updating the core IT infrastructure of a recent client company acquisition. This young, innovative startup aligns well with the mission of the client company; unfortunately, its IT systems do not.
