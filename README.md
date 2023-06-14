@@ -1,11 +1,11 @@
 # HarmoniTech: Transforming Acquisitions with Seamless IT Integration Project Guidelines
 
-## Members
-- Cameron Berry: [linkedin](https://www.linkedin.com/in/cameron-berry-seattle/) [github](https://github.com/CamBerry1)
-- Sam Allan: [linkedin](https://www.linkedin.com/in/samuel-allan-26652a262/)  [github](https://github.com/theSam1998)
-- Jazmine Garcia: [linkedin](https://www.linkedin.com/in/jasmineigarcia/) [github](https://github.com/Jasmine-Garcia)
-- Osaremeh Abel: [linkedin](https://www.linkedin.com/in/osaremehabel/) [github](https://github.com/ashard79)
-- Lilian Mburu: [linkedin](https://www.linkedin.com/in/lilianmburu/) [github](https://github.com/OddGarden)
+## Leaders
+- Cameron Berry: [LinkedIn](https://www.linkedin.com/in/cameron-berry-seattle/) [Github](https://github.com/CamBerry1)
+- Sam Allan: [LinkedIn](https://www.linkedin.com/in/samuel-allan-26652a262/)  [Github](https://github.com/theSam1998)
+- Jazmine Garcia: [LinkedIn](https://www.linkedin.com/in/jasmineigarcia/) [Github](https://github.com/Jasmine-Garcia)
+- Osaremeh Abel: [LinkedIn](https://www.linkedin.com/in/osaremehabel/) [Github](https://github.com/ashard79)
+- Lilian Mburu: [LinkedIn](https://www.linkedin.com/in/lilianmburu/) [Github](https://github.com/OddGarden)
 
 ## Scenario
 
