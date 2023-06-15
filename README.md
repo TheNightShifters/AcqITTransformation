@@ -236,7 +236,12 @@ Your client company has been wanting to move their physical infrastructure to th
 - [Base iteration](https://chat.openai.com/share/a396a2a3-ec59-4bda-a94f-bc182ee153c4)
 - [Secondary iteration 1](https://chat.openai.com/share/3c6cd92f-4b3f-476e-980b-2ad631c291b7)
 - [Secondary iteration 2](https://chat.openai.com/share/0595b7a6-f372-43e6-9b39-41cba46128f7)
-
+---
+## NETWORK TOPOLOGY: 1st edition
+- This topology provides an early visualization of what our network might look like, including all technologies we are expected to use. However, this is the 1st published edition, and updates will be published beneath this one.
+  
+![network_visualization](https://github.com/TheNightShifters/AcqITTransformation/assets/123232378/b2bdf0a5-607e-4fcb-a304-36b1f0934577)
+---
 
 
 
