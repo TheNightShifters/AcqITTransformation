@@ -240,7 +240,8 @@ Your client company has been wanting to move their physical infrastructure to th
 ## NETWORK TOPOLOGY: 1st edition
 - This topology provides an early visualization of what our network might look like, including all technologies we are expected to use. However, this is the 1st published edition, and updates will be published beneath this one.
   
-![network_visualization](https://github.com/TheNightShifters/AcqITTransformation/assets/123232378/b2bdf0a5-607e-4fcb-a304-36b1f0934577)
+![FinalTopology](https://github.com/TheNightShifters/AcqITTransformation/assets/123232378/ed413618-f0eb-42e9-bad6-5041545181b9)
+
 ---
 
 
