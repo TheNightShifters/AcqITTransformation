@@ -241,8 +241,7 @@ Your client company has been wanting to move their physical infrastructure to th
 - This topology provides an early visualization of what our network might look like, including all technologies we are expected to use. However, this is the 1st published edition, and updates will be published beneath this one.
   
 
-![realfinal](https://github.com/TheNightShifters/AcqITTransformation/assets/123232378/f058447b-1955-49ab-8366-6aaf454515bc)
-
+![drawagram](https://github.com/TheNightShifters/AcqITTransformation/assets/123232378/5d108504-5aff-44ac-b73b-2621ccc57df5)
 
 ---
 
