@@ -402,12 +402,14 @@ function autoconfig {
         $scriptPath = $PSCommandPath
         $taskCommand = "powershell.exe -WindowStyle Normal -File `"$scriptPath`" -TaskRun"
         $taskArguments = "-Create -TN `"MyScript`" -SC ONSTART -TR `"$taskCommand`""
-        Start-Process schtasks.exe -ArgumentList $taskArguments -Wait -NoNewWindow
+        $principal = "-RU SYSTEM -RL HIGHEST"
+        Start-Process schtasks.exe -ArgumentList $taskArguments, $principal -Wait -NoNewWindow
 
         NewADForest -ForestName "harmonitech.com" -DomainName "harmonitech" -DomainNetBIOSName "HARMONITECH" -DSRMPassword "Catatemydog89!"
         #shutdown.exe /r /t 60
     }
 }
+
 
 
 
