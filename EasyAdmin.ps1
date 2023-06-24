@@ -396,14 +396,32 @@ function autoconfig {
 
         # Delete the scheduled task
         schtasks.exe /Delete /TN "MyScript" /F
+
+        # Store the taskrun flag for resuming after logon
+        $taskRunFlag = "TaskRun"
+        Set-Content -Path "C:\Temp\TaskRunFlag.txt" -Value $taskRunFlag
     } else {
         # This is the pre-restart run
-        # Create a scheduled task to run this script at startup with -TaskRun switch
+
+        # Check if the taskrun flag exists
+        $taskRunFlagPath = "C:\Temp\TaskRunFlag.txt"
+        if (Test-Path $taskRunFlagPath) {
+            # Remove the taskrun flag file
+            Remove-Item -Path $taskRunFlagPath
+
+            # Resume from the post-restart run
+            ResumeFromPostRestart
+            return
+        }
+
+        # Prompt the user for the username to log back in as after restart
+        $username = Read-Host -Prompt "Enter the username to log back in as after restart"
+
+        # Create a scheduled task to run this script at user logon with -TaskRun switch
         $scriptPath = $PSCommandPath
         $taskCommand = "powershell.exe -WindowStyle Normal -File `"$scriptPath`" -TaskRun"
-        $taskArguments = "-Create -TN `"MyScript`" -SC ONSTART -TR `"$taskCommand`""
-        $principal = "-RU SYSTEM -RL HIGHEST"
-        Start-Process schtasks.exe -ArgumentList $taskArguments, $principal -Wait -NoNewWindow
+        $taskArguments = "-Create -TN `"MyScript`" -SC ONLOGON -RU `"$username`" -TR `"$taskCommand`""
+        Start-Process schtasks.exe -ArgumentList $taskArguments -Wait -NoNewWindow
 
         NewADForest -ForestName "harmonitech.com" -DomainName "harmonitech" -DomainNetBIOSName "HARMONITECH" -DSRMPassword "Catatemydog89!"
         #shutdown.exe /r /t 60
