@@ -1,6 +1,6 @@
 https://thenightshift.atlassian.net/jira/core/projects/CX301/board
 
 
-<a href="https://thenightshift.atlassian.net/jira/core/projects/CX301/board"><img align="left" src="https://github.com/TheNightShifters/AcqITTransformation/assets/47993869/fc2986c5-f2ed-4e40-b9e4-e16455bec252" alt="Jira Board Snapshot | Jira" width="100px"/></a>
+ <a href="https://www.linkedin.com/in/cameron-berry-seattle/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Cameron Berry | LinkedIn" width="100px"/></a> 
 
 
