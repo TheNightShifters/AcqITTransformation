@@ -89,4 +89,4 @@ This SOP applies to all network changes, including but not limited to hardware u
 ## Revision History:
 06/15/2023 -- "Managing Network Changes with Minimal Disruptions and Downtime SOP" created by Lilian Mburu
 
-![image](https://github.com/TheNightShifters/AcqITTransformation/assets/47993869/7d15a2ee-abe4-4851-abf3-b85f6ea8f5ad)
+
