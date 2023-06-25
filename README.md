@@ -57,13 +57,7 @@ Your client company has been wanting to move their physical infrastructure to th
 
 > Tip: You can use AI tooling to help you generate storylines to validate your infrastructure design choices. 
 
-## NETWORK TOPOLOGY: 
-  
 
-![Untitled Diagram (2)](https://github.com/TheNightShifters/AcqITTransformation/assets/123232378/b991719f-bdba-4300-8c9d-02895ff46193)
-
-
----
 
 
 
