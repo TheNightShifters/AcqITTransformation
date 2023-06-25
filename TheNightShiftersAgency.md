@@ -26,7 +26,7 @@
 
 💬 If you have any question/feedback, please do not hesitate to reach out to us!
 ![About Jazmine Garcia](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Jasmine_profile.png)
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/jasmineigarcia/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 
 
 ![About Cameron Berry](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Cam_profile.png)
