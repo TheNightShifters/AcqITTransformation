@@ -55,20 +55,20 @@ The HR Department processes new employees into the company and will need to noti
 - Install and configure Malwarebytes software, firewalls, and any other required security measures to protect the device and the network from potential threats.
 - Configure network printers or other peripheral devices the employee may require.
 
-### **Software and Application Provisioning**
+### **3. Software and Application Provisioning**
 - Install and configure standard software applications required for the employee's job role, such as productivity tools, communication software, and business applications.
 - Provide licenses or activation keys for the software, ensuring compliance with software licensing agreements.
 - Set up access to cloud-based applications and services that the employee needs, such as customer relationship management (CRM) tools or project management platforms.
 
-### **Data and File Access**
+### **4. Data and File Access**
 - Grant appropriate permissions and access to network file shares or cloud storage platforms, enabling the employee to access and collaborate on shared files and documents.
 - Educate the employee about data security and best practices for handling sensitive information, such as encryption, file backup procedures, and data access controls.
 
-### **Implementation of MFA and User to Password Manager**
+### **5. Implementation of MFA and User to Password Manager**
 - Implement 2FA or MFA to add an extra layer of security to user account authentication.
 - Require employees to provide additional verification factors, such as a temporary code sent to an an Authenticator app such as Google Authenticator, in addition to their username and password. Their passwords will also be stored in a password manager such as NordPass.
 
-### **User Training and Support**
+### **6. User Training and Support**
 - Provide orientation or training sessions to familiarize the new employee with the organization's network policies, security practices, and acceptable use guidelines.
 - Offer ongoing technical support and assistance for any network-related issues or questions that arise during the onboarding process.
 - Ensure the employee has access to IT support channels for reporting problems or requesting assistance.
@@ -85,5 +85,5 @@ The HR Department processes new employees into the company and will need to noti
 - **ADAC**: The Active Directory Administrative Center (ADAC) in Windows Server includes enhanced management experience features. These features ease the administrative burden for managing Active Directory Domain Services (AD DS).
 - **MFA or 2FA**: Multi-Factor Authentication (MFA), also known as Two-Factor Authentication (2FA), is an important security measure that adds an extra layer of protection to user accounts. It requires users to provide multiple factors of authentication to verify their identity. 
 
-Revision History:
-6/25/2023 -- "Network Account Management Needs for Employees Being Onboarded SOP.md" created by Jasmine Garcia
+## Revision History:
+- 6/25/2023 -- "Network Account Management Needs for Employees Being Onboarded SOP.md" created by Jasmine Garcia
