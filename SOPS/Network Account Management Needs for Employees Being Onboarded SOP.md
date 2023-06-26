@@ -31,19 +31,19 @@ The HR Department processes new employees into the company and will need to noti
 -Once you have made the necessary modifications, click the "OK" button to save the changes.
 
 ### **2. Apply Group Policy to New Employees**
-- **_Specific policies will include: Enable Audit Logs, Screen Lockout Time, Password Policy, Password Policy, Access restriction to the command prompt and PowerShell, Limit access to Control Panel options, Limit who can install software, Guest Account Settings, Prevent Storing LAN Manager Hash, Limit Local Account use of a blank password to console only, Turn off forced restarts, Monitor Changes to GPO Settings, Disable Anonymous SID/Name Translation, Windows Firewall, and Enable User Account Control (UAC)._**
-- On the domain controller or a computer with the Remote Server Administration Tools (RSAT) installed, open the Group Policy Management Console (GPMC)or you can access GPMC by clicking "Start," typing "Group Policy Management" in the search box, and selecting the appropriate result.
-- Locate the Existing Group Policy. 
-- Expand the forest and domain in the GPMC to find the existing Group Policy that you want to modify.
-- Expand the domain, then navigate to "Group Policy Objects."
-- Double-click on the desired Group Policy Object to open its properties and edit it.
-- Edit the Group Policy 
-- Within the Group Policy Management Editor, navigate to the policy setting that controls the membership of the group to which you want to add the user.
-- The policy settings are located in either the "Computer Configuration" or "User Configuration" sections, depending on the target of the policy.
-- Modify the Group Membership Policy by clicking on the policy setting.
-- In the policy setting window, look for the option to specify the group membership, such as "Add users to a group" or "Restricted Groups." Then "Add" or Edit" to modify the group members. Be sure to click apply to finalize the changes. 
-- The changes will be saved automatically within the GPO.
-- Verify and test by logging in with the new user account and confirming that it has been added to the specified group.
+- **_Specific policies will include: Account Lockout Policy, Password Policy, Access Control Policy, User Account Deactivation Policy, Data Loss Prevention (DLP) Policy, Remote Access Policy, Email Retention and Monitoring Policy, Establish policies for email retention and monitoring, Device Security Policy, Enable Audit Logs, Screen Lockout Time, Password Policy, Password Policy, Access restriction to the command prompt and PowerShell, Limit access to Control Panel options, Limit who can install software, Guest Account Settings, Prevent Storing LAN Manager Hash, Limit Local Account use of a blank password to console only, Turn off forced restarts, Monitor Changes to GPO Settings, Disable Anonymous SID/Name Translation, Windows Firewall, and Enable User Account Control (UAC)._**
+  - On the domain controller or a computer with the Remote Server Administration Tools (RSAT) installed, open the Group Policy Management Console (GPMC)or you can access GPMC by clicking "Start," typing "Group Policy Management" in the search box, and selecting the appropriate result.
+  - Locate the Existing Group Policy. 
+  - Expand the forest and domain in the GPMC to find the existing Group Policy that you want to modify.
+  - Expand the domain, then navigate to "Group Policy Objects."
+  - Double-click on the desired Group Policy Object to open its properties and edit it.
+  - Edit the Group Policy 
+  - Within the Group Policy Management Editor, navigate to the policy setting that controls the membership of the group to which you want to add the user.
+  - The policy settings are located in either the "Computer Configuration" or "User Configuration" sections, depending on the target of the policy.
+  - Modify the Group Membership Policy by clicking on the policy setting.
+  - In the policy setting window, look for the option to specify the group membership, such as "Add users to a group" or "Restricted Groups." Then "Add" or Edit" to modify the group members. Be sure to click apply to finalize the changes. 
+  - The changes will be saved automatically within the GPO.
+  - Verify and test by logging in with the new user account and confirming that it has been added to the specified group.
 
 ### **3. Network Access and Connectivity**
 - Provide the new employee with a network connection, either wired or wireless, to ensure they have internet access and connectivity within the organization's network.
