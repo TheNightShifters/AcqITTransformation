@@ -79,9 +79,7 @@ This SOP applies to all departments, teams, and personnel involved in the instal
   - Monitor emerging trends and advancements in OS version control and make necessary adjustments to the procedures accordingly.
 
 ## References:
-[Sources this document pulls from or references, or simply extended reading/documentation on this subject.]
-- So, You Want to Write an SOP?
-- 37 Best Standard Operating Procedure (SOP) Templates
+- [ChatGBT Reference](https://chat.openai.com/c/837f49a6-3dd9-431c-b1ff-33f43a7997a0)
 
 ## Definitions:
 - Operating System (OS): Refers to the software that manages computer hardware and provides a platform for running applications.
