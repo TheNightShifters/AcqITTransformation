@@ -74,9 +74,7 @@ This SOP applies to all network changes, including but not limited to hardware u
   - Document and report the results of the change, including any lessons learned, to improve future change management processes.
 
 ## References:
-[Sources this document pulls from or references, or simply extended reading/documentation on this subject.]
-- So, You Want to Write an SOP?
-- 37 Best Standard Operating Procedure (SOP) Templates
+- [ChatGBT Reference](https://chat.openai.com/c/1df6f3cd-40bd-4a29-81b8-b2c8ee06a87a)
 
 ## Definitions:
 - Change Request: A formal document or submission used to request a change to the network infrastructure. It includes details such as the reason for the change, the scope, and the expected impact.
