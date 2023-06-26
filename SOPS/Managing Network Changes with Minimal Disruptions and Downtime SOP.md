@@ -1,5 +1,8 @@
 
 # Managing Network Changes with Minimal Disruptions and Downtime SOP:
+
+## _Author: Lilian Mburu_
+
 ## Purpose:
 The purpose of this SOP is to establish guidelines and procedures for managing changes to the network infrastructure, including hardware, software, and configuration changes, while minimizing disruptions and downtime. By following this SOP, network administrators can ensure smooth transitions, reduce the risk of service interruptions, and maintain network availability during change implementation.
 
@@ -11,7 +14,7 @@ This SOP applies to all network changes, including but not limited to hardware u
 - Change Management Team: Responsible for reviewing and approving network change requests.
 - Network Operations Center (NOC): Responsible for monitoring and reporting network performance during change implementation.
 - Support Staff: Responsible for providing assistance and support during network change activities.
-- 
+  
 ## Prerequisites:
 - Information:
   -	Detailed knowledge of the network infrastructure, including network topology, equipment, configurations, and dependencies.
@@ -42,7 +45,7 @@ This SOP applies to all network changes, including but not limited to hardware u
 - Training and Certifications:
   - Network administrators and support staff should possess appropriate knowledge, certifications, and training on network technologies, protocols, and best practices.
   - Awareness of the organization's policies, procedures, and guidelines related to network changes, security, and compliance.
-  - 
+    
 ## Procedure:
 - Change Planning and Documentation:
   - Identify the need for the network change and document it in a change request.
@@ -55,13 +58,14 @@ This SOP applies to all network changes, including but not limited to hardware u
   - Coordinate with vendors or third-party providers, if applicable, to ensure compatibility and support for the proposed change.
   - Create a backup of critical network configurations, settings, and data.
   - Schedule the change during a maintenance window or a low-impact period, considering the organization's policies and user requirements.
-- Change Implementation:
+
 - Establish a change control window and inform the NOC and support staff about the scheduled change.
   - Disable unnecessary network monitoring alerts temporarily to avoid false alarms during the change process.
   - Begin the change implementation, following the documented change plan and ensuring adherence to best practices and safety precautions.
   - Monitor the network closely during the change implementation, promptly addressing any unexpected issues.
   - Regularly communicate the progress of the change to the NOC, support staff, and stakeholders.
   - Conduct functional and performance testing to validate the successful implementation of the change.
+    
 - Post-change Validation:
   - Perform thorough testing of the network after the change implementation to ensure its stability and functionality.
   - Verify that all critical network services, applications, and connectivity are restored and functioning correctly.
@@ -87,6 +91,7 @@ This SOP applies to all network changes, including but not limited to hardware u
 - SLAs (Service Level Agreements): Agreements between network service providers and customers that define the expected levels of service, performance, and availability. SLAs outline metrics, response times, and penalties in case of service-level violations.
 
 ## Revision History:
-06/15/2023 -- "Managing Network Changes with Minimal Disruptions and Downtime SOP" created by Lilian Mburu
+- 06/15/2023 -- "Managing Network Changes with Minimal Disruptions and Downtime SOP" created by Lilian Mburu
+- 06/25/2023 -- Edits by Jasmine Garcia 
 
 
