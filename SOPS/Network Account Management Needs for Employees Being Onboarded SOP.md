@@ -26,12 +26,12 @@ The HR Department processes new employees into the company and will need to noti
 ### **1.2 Modify Existing User in ADAC**
 - Locate the user account you want to modify, and then right-click on it. A context menu will appear.
 - From the context menu, select "Properties." A dialog box will open, displaying the properties of the selected user account.
-- In the user account properties dialog box, you can make changes to various attributes such as General, Account, Profile, Organization, Telephones, - --- Address, and more, depending on the available attributes and your permissions.
+- In the user account properties dialog box, you can make changes to various attributes such as General, Account, Profile, Organization, Telephones, Address, and more, depending on the available attributes and your permissions.
 - Navigate through the tabs and modify the desired properties according to your requirements. For example, you can change the user's name, password settings, group membership, email address, etc.
 -Once you have made the necessary modifications, click the "OK" button to save the changes.
 
 ### **2. Apply Group Policy to New Employees**
-- _Specific policies will include: Enable Audit Logs, Screen Lockout Time, Password Policy, Password Policy, Access restriction to the command prompt and PowerShell, Limit access to Control Panel options, Limit who can install software, Guest Account Settings, Prevent Storing LAN Manager Hash, Limit Local Account use of a blank password to console only, Turn off forced restarts, Monitor Changes to GPO Settings, Disable Anonymous SID/Name Translation, Windows Firewall, and Enable User Account Control (UAC)._
+- **_Specific policies will include: Enable Audit Logs, Screen Lockout Time, Password Policy, Password Policy, Access restriction to the command prompt and PowerShell, Limit access to Control Panel options, Limit who can install software, Guest Account Settings, Prevent Storing LAN Manager Hash, Limit Local Account use of a blank password to console only, Turn off forced restarts, Monitor Changes to GPO Settings, Disable Anonymous SID/Name Translation, Windows Firewall, and Enable User Account Control (UAC)._**
 - On the domain controller or a computer with the Remote Server Administration Tools (RSAT) installed, open the Group Policy Management Console (GPMC)or you can access GPMC by clicking "Start," typing "Group Policy Management" in the search box, and selecting the appropriate result.
 - Locate the Existing Group Policy. 
 - Expand the forest and domain in the GPMC to find the existing Group Policy that you want to modify.
