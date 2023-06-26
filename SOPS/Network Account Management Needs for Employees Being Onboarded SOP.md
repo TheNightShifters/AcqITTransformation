@@ -1,10 +1,10 @@
 # Network Account Management Needs for Employees Being Onboarded SOP
 
 ## Purpose:
-The purpose of this SOP is to establish a set of guidelines for the IT employees involved in managing network account for employees being onboarded. This applies to both new employees and already existing employees who will either be transferred to a different department or employees who have advanced or are relegated to a new position. For already existing employees this would be to prevent privilege creep. Overall, this SOP is to ensure the security and integrity of the company's network and sensitive information.
+The purpose of this SOP is to establish a set of guidelines for the IT employees involved in managing network accounts for employees being onboarded. This applies to both new employees and already existing employees who will either be transferred to a different department or employees who have advanced or are relegated to a new position. For already existing employees this would be to prevent privilege creep. Overall, this SOP is to ensure the security and integrity of the company's network and sensitive information.
 
 ## Scope:
-This SOP applies to all employees in the IT department responsible for managing network accounts and the onboarding process.
+This SOP applies to all employees in the IT Department responsible for managing network accounts associated with the onboarding process.
 
 ## Responsibilities 
 The IT and Cybersecurity department are primarily responsible for implementing, following, reviewing, and updating this policy.
