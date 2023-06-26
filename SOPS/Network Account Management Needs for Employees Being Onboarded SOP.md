@@ -7,7 +7,7 @@ The purpose of this SOP is to establish a set of guidelines for the IT employees
 This SOP applies to all employees in the IT department responsible for managing network accounts and the onboarding process.
 
 ## Responsibilities 
-The IT and Cybersecurity department is primarily responsible for implementing, following, reviewing, and updating this policy.
+The IT and Cybersecurity department are primarily responsible for implementing, following, reviewing, and updating this policy.
 
 ## Prerequisites:
 The HR Department processes new employees into the company and will need to notify the IT Department of a new incoming employee or existing employee's information: name, position, department, and start date. 
