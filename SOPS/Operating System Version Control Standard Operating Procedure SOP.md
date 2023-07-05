@@ -1,5 +1,7 @@
 # Operating System Version Control Standard Operating Procedure SOP:
 
+## Author: _Lilian Mburu_ 
+
 ## Purpose:
 The purpose of this Standard Operating Procedure (SOP) is to outline the guidelines and procedures for effective version control of operating systems (OS). This ensures proper management, tracking, and deployment of OS updates and changes throughout the organization.
 
