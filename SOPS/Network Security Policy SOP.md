@@ -1,5 +1,7 @@
 # Network Security Policy SOP
 
+## _Author: Sam Allen_
+
 ## Purpose:
 The purpose of this SOP is to describe the correct procedure for accessing on-premises and cloud
 resources securely for remote employees. It will be updated periodically to reflect
